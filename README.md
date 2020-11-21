@@ -1,2 +1,2 @@
 # fastAPI
-A demon on fastAPI fetching city timezones and current times
+A demo on fastAPI and Tortoise ORM fetching city timezones and current times
